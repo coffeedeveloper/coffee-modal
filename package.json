@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/coffeedeveloper/coffee-modal/issues"
   },
-  "homepage": "https://github.com/coffeedeveloper/coffee-modal#readme"
+  "homepage": "https://github.com/coffeedeveloper/coffee-modal#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4"
+  }
 }
